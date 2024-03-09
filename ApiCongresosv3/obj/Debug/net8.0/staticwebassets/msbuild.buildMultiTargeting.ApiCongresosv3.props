@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiCongresosv3.props" />
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\bin\Debug\net8.0\ClbDatCongreos.deps.json
+C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\bin\Debug\net8.0\ClbDatCongreos.dll
+C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\bin\Debug\net8.0\ClbDatCongreos.pdb
+C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\bin\Debug\net8.0\ClbModCongresos.dll
+C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\bin\Debug\net8.0\ClbModCongresos.pdb
+C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\obj\Debug\net8.0\ClbDatCongreos.csproj.AssemblyReference.cache
+C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\obj\Debug\net8.0\ClbDatCongreos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\obj\Debug\net8.0\ClbDatCongreos.AssemblyInfoInputs.cache
+C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\obj\Debug\net8.0\ClbDatCongreos.AssemblyInfo.cs
+C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\obj\Debug\net8.0\ClbDatCongreos.csproj.CoreCompileInputs.cache
+C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\obj\Debug\net8.0\ClbDatCo.808F65B0.Up2Date
+C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\obj\Debug\net8.0\ClbDatCongreos.dll
+C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\obj\Debug\net8.0\refint\ClbDatCongreos.dll
+C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\obj\Debug\net8.0\ClbDatCongreos.pdb
+C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\obj\Debug\net8.0\ref\ClbDatCongreos.dll
