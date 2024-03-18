@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiCongresosv3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+042a527e687235ee70c57e6b38c5e1671e106c80")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiCongresosv3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiCongresosv3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

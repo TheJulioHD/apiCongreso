@@ -9,3 +9,4 @@ C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClbModCongresos\obj\Debug\net8.
 C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClbModCongresos\obj\Debug\net8.0\refint\ClbModCongresos.dll
 C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClbModCongresos\obj\Debug\net8.0\ClbModCongresos.pdb
 C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClbModCongresos\obj\Debug\net8.0\ref\ClbModCongresos.dll
+C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClbModCongresos\obj\Debug\net8.0\ClbModCongresos.sourcelink.json

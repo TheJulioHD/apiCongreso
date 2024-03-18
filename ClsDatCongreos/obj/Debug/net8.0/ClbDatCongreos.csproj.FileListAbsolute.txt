@@ -13,3 +13,4 @@ C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\obj\Debug\net8.0
 C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\obj\Debug\net8.0\refint\ClbDatCongreos.dll
 C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\obj\Debug\net8.0\ClbDatCongreos.pdb
 C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\obj\Debug\net8.0\ref\ClbDatCongreos.dll
+C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClsDatCongreos\obj\Debug\net8.0\ClbDatCongreos.sourcelink.json

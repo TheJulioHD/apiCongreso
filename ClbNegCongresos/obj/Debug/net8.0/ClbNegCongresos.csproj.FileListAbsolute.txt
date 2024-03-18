@@ -15,3 +15,4 @@ C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClbNegCongresos\obj\Debug\net8.
 C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClbNegCongresos\obj\Debug\net8.0\refint\ClbNegCongresos.dll
 C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClbNegCongresos\obj\Debug\net8.0\ClbNegCongresos.pdb
 C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClbNegCongresos\obj\Debug\net8.0\ref\ClbNegCongresos.dll
+C:\Users\Julio Moran\source\repos\ApiCongresosv3\ClbNegCongresos\obj\Debug\net8.0\ClbNegCongresos.sourcelink.json

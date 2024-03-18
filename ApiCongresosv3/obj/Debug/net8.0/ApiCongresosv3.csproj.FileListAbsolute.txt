@@ -43,3 +43,4 @@ C:\Users\Julio Moran\source\repos\ApiCongresosv3\ApiCongresosv3\obj\Debug\net8.0
 C:\Users\Julio Moran\source\repos\ApiCongresosv3\ApiCongresosv3\obj\Debug\net8.0\ApiCongresosv3.pdb
 C:\Users\Julio Moran\source\repos\ApiCongresosv3\ApiCongresosv3\obj\Debug\net8.0\ApiCongresosv3.genruntimeconfig.cache
 C:\Users\Julio Moran\source\repos\ApiCongresosv3\ApiCongresosv3\obj\Debug\net8.0\ref\ApiCongresosv3.dll
+C:\Users\Julio Moran\source\repos\ApiCongresosv3\ApiCongresosv3\obj\Debug\net8.0\ApiCongresosv3.sourcelink.json
